@@ -5,4 +5,4 @@ Some projects have included demo video witch can be watched to see results of my
 On my github I upload to public ony projects that are finished and work well except for those with "(dev)" in description - this means that project in current uploaded state is working but i still add new features to it and work on it.
 
 Something about myself:
-My name is Franek in programming my main interest are video games. I also like to work with backend and seeing how everything starts to work together. I prefer raw code over frameworks and engines. Languages that I use mostly are C++ and Java. I also know some of these technologies: HTML, CSS, SQL, JavaScript, Spring Web, Jdbc, PHP and C#.
+My name is Franek in programming my main interest are video games. I also like to work with backend and seeing how everything starts to work together. I prefer raw code over frameworks and engines. Languages that I use mostly are C++ and Java. I'm good at graphics programming and OpenGL. I also know these technologies: HTML, CSS, SQL, JavaScript, Spring Web, Jdbc, PHP and C#.
